@@ -1,0 +1,13 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "baretest": "^2.0.0",
+    "lib-actors": "https://github.com/coding-stones/lib-actor.git",
+    "lib-fifo": "https://github.com/coding-stones/lib-fifo.git",
+    "lib-priority-queue": "https://github.com/coding-stones/lib-priority-queue.git"
+  }
+}
